@@ -375,6 +375,10 @@
         "zpool.ca": {
             "name" : "zpool",
             "link" : "https://zpool.ca/"
+        },
+        "zergpool.ca": {
+            "name" : "Zergpool",
+            "link" : "http://zergpool.com/"
         }
     },
     "payout_addresses" : {
