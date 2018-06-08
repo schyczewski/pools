@@ -371,13 +371,13 @@
         "/DPOOL.TOP/": {
             "name" : "DPOOL",
             "link" : "http://www.dpool.top/"
+        },
+        "zpool.ca": {
+            "name" : "zpool",
+            "link" : "https://zpool.ca/"
         }
     },
     "payout_addresses" : {
-        "EZBxbLXkHwCRHgbSVGXkTkgNY2RSWaYpAP" : {
-            "name" : "CryptoADHD.com",
-            "link" : "https://irl.cryptoadhd.com"
-        },
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
             "name" : "GHash.IO",
             "link" : "https://ghash.io/"
@@ -725,6 +725,10 @@
         "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
             "name" : "DPOOL",
             "link" : "http://www.dpool.top/"
+        },
+        "EZBxbLXkHwCRHgbSVGXkTkgNY2RSWaYpAP" : {
+            "name" : "CryptoADHD.com",
+            "link" : "https://irl.cryptoadhd.com"
         }
     }
 }
