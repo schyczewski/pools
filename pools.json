@@ -379,6 +379,18 @@
         "zergpool.com": {
             "name" : "Zergpool",
             "link" : "http://zergpool.com/"
+        },
+        "/LTC.TOP/": {
+            "name" : "LTC.TOP",
+            "link" : "http://ltc.btc.top"
+        },
+        "/LP/": {
+            "name" : "litecoinpool.org",
+            "link" : "https://www.litecoinpool.org"
+        },
+        "/MiningCore/": {
+            "name" : "coinfoundry",
+            "link" : "https://coinfoundry.org/"
         }
     },
     "payout_addresses" : {
@@ -733,6 +745,10 @@
         "EZBxbLXkHwCRHgbSVGXkTkgNY2RSWaYpAP" : {
             "name" : "CryptoADHD.com",
             "link" : "https://irl.cryptoadhd.com"
+        },
+        "Lhh4idZ9eFgZt9wPGxMVdJmGJoGy2o2sCj" : {
+            "name" : "hashing.com",
+            "link": "https://hashing.com"
         }
     }
 }
