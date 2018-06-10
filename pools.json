@@ -393,8 +393,16 @@
             "link" : "https://coinfoundry.org/"
         },
         "/Optimization by otherPool.com/": {
-            "name" : "OtherPool",
-            "link" : "http://otherpool.com/"
+            "name" : "BeePool",
+            "link" : "http://beepool.org/"
+        },
+        "/CoinMinePL/": {
+            "name" : "CoinMine.pl",
+            "link" : "https://www2.coinmine.pl/"
+        },
+        "/DASH.TOP/": {
+            "name" : "DASH.TOP",
+            "link" : "http://dash.btc.top/"
         }
     },
     "payout_addresses" : {
