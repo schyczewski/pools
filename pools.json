@@ -391,6 +391,10 @@
         "/MiningCore/": {
             "name" : "coinfoundry",
             "link" : "https://coinfoundry.org/"
+        },
+        "/Optimization by otherPool.com/": {
+            "name" : "OtherPool",
+            "link" : "http://otherpool.com/"
         }
     },
     "payout_addresses" : {
