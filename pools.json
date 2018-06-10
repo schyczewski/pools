@@ -403,6 +403,10 @@
         "/DASH.TOP/": {
             "name" : "DASH.TOP",
             "link" : "http://dash.btc.top/"
+        },
+        "/mph/": {
+            "name" : "MiningPoolHub",
+            "link" : "https://miningpoolhub.com/"
         }
     },
     "payout_addresses" : {
@@ -761,6 +765,10 @@
         "Lhh4idZ9eFgZt9wPGxMVdJmGJoGy2o2sCj" : {
             "name" : "hashing.com",
             "link": "https://hashing.com"
+        },
+        "XjRizKLj64toLfPk2vEDxk8d2pBtkVd6oa" : {
+            "name" : "CryptoADHD.com",
+            "link" : "https://dash.cryptoadhd.com"
         }
     }
 }
