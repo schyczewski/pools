@@ -427,6 +427,10 @@
         "/Rawpool.com/" : {
             "name" : "Rawpool.com",
             "link" : "http://Rawpool.com"
+        },
+        "Coinotron" : {
+            "name" : "Coinotron",
+            "link" : "https://www.coinotron.com"
         }
     },
     "payout_addresses" : {
@@ -806,6 +810,10 @@
             "name" : "ProHashing",
             "link" : "https://prohashing.com/"
         },
+        "Lcvd2ka6ecXaxjGbuyWDKURpUf9pXXPVKK" : {
+            "name" : "Coinotron",
+            "link" : "https://www.coinotron.com"
+        },
         "LeD2fnnDJYZuyt8zgDsZ2oBGmuVcxGKCLd" : {
             "name" : "P2P-multipool.eu",
             "link" : "http://p2p-multipool.eu/"
@@ -817,6 +825,10 @@
         "XqPQ26xGigKkq4yCNmTfgkRPdt8FyB547J" : {
             "name" : "P2P-multipool.eu",
             "link" : "http://p2p-multipool.eu/"
+        },
+        "XiEFG1tTyXuYbcFvcYYRC8cJgmRJAJi2ue" : {
+            "name" : "Coinotron",
+            "link" : "https://www.coinotron.com"
         },
         "bitcoincash:qrgrmfhu5wgpvmgzp0sw0s52erx8pavyqvkhmltum6" : {
             "name" : "P2P-multipool.eu",
