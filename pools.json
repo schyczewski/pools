@@ -439,6 +439,10 @@
         "btgpool.pro" : {
             "name" : "BTGPOOL",
             "link" : "http://btgpool.pro"
+        },
+        ".suprnova.cc/" : {
+            "name" : "suprnova.cc",
+            "link" : "https://www.suprnova.cc/"
         }
     },
     "payout_addresses" : {
@@ -857,6 +861,14 @@
         "GWViUY2b3HAYWY9BbeGeFjc6rKdrBffzHa" : {
             "name" : "Pool.Gold",
             "link" : "http://new.pool.gold"
+        },
+        "GSArGviLRTDBYSY69f7v9o6Dc7jhNY2Txo" : {
+            "name" : "MinerGate",
+            "link" : "https://minergate.com"
+        },
+        "GVQiajM9TTSNVATL3JEGLG9s48TWHTJg8S" : {
+            "name" : "suprnova.cc",
+            "link" : "https://www.suprnova.cc/"
         }
     }
 }
