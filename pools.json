@@ -431,6 +431,14 @@
         "Coinotron" : {
             "name" : "Coinotron",
             "link" : "https://www.coinotron.com"
+        },
+        "Coinblockers" : {
+            "name" : "Coinblockers",
+            "link" : "https://coinblockers.com"
+        },
+        "btgpool.pro" : {
+            "name" : "BTGPOOL",
+            "link" : "http://btgpool.pro"
         }
     },
     "payout_addresses" : {
