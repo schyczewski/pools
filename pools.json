@@ -806,9 +806,17 @@
             "name" : "ProHashing",
             "link" : "https://prohashing.com/"
         },
+        "LeD2fnnDJYZuyt8zgDsZ2oBGmuVcxGKCLd" : {
+            "name" : "P2P-multipool.eu",
+            "link" : "http://p2p-multipool.eu/"
+        },
         "XjRizKLj64toLfPk2vEDxk8d2pBtkVd6oa" : {
             "name" : "CryptoADHD.com",
             "link" : "https://dash.cryptoadhd.com"
+        },
+        "XqPQ26xGigKkq4yCNmTfgkRPdt8FyB547J" : {
+            "name" : "P2P-multipool.eu",
+            "link" : "http://p2p-multipool.eu/"
         },
         "bitcoincash:qrgrmfhu5wgpvmgzp0sw0s52erx8pavyqvkhmltum6" : {
             "name" : "P2P-multipool.eu",
