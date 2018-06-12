@@ -821,6 +821,14 @@
         "bitcoincash:qrgrmfhu5wgpvmgzp0sw0s52erx8pavyqvkhmltum6" : {
             "name" : "P2P-multipool.eu",
             "link" : "http://p2p-multipool.eu/"
+        },
+        "bitcoincash:qrr7jtg5nxkq0ry75vyklk5kzt0hv4a2lqs83a25ky" : {
+            "name" : "BitClub",
+            "link" : "https://bitclubpool.com/"
+        },
+        "GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw" : {
+            "name" : "MiningPoolHub",
+            "link" : "https://miningpoolhub.com/"
         }
     }
 }
