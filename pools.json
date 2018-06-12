@@ -292,6 +292,14 @@
             "name": "ViaBTC",
             "link": "https://viabtc.com"
         },
+        "/bmgpool.com/" : {
+            "name" : "bmgpool.com",
+            "link" : "https://www.viabtc.com/"
+        },
+        "/coingeek.com/" : {
+            "name" : "coingeek.com",
+            "link" : ""
+        },
         "/ViaBTC/" : {
             "name": "ViaBTC",
             "link": "http://viabtc.com/"
@@ -411,6 +419,14 @@
         "/pool.hashstream.net/": {
             "name" : "hashstream.net",
             "link" : "https://pool.hashstream.net"
+        },
+        "/Multipool.us/" : {
+            "name" : "Multipool",
+            "link" : "https://www.multipool.us"
+        },
+        "/Rawpool.com/" : {
+            "name" : "Rawpool.com",
+            "link" : "http://Rawpool.com"
         }
     },
     "payout_addresses" : {
