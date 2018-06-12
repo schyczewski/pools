@@ -809,6 +809,10 @@
         "XjRizKLj64toLfPk2vEDxk8d2pBtkVd6oa" : {
             "name" : "CryptoADHD.com",
             "link" : "https://dash.cryptoadhd.com"
+        },
+        "bitcoincash:qrgrmfhu5wgpvmgzp0sw0s52erx8pavyqvkhmltum6" : {
+            "name" : "P2P-multipool.eu",
+            "link" : "http://p2p-multipool.eu/"
         }
     }
 }
